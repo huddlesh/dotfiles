@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-dotfiles for the macbook
+collection of simple dotfiles for the macbook
