@@ -12,3 +12,6 @@ alias ll="ls -la"
 # customize bash prompt
 export PATH=$PATH:/usr/local/mysql/bin
 export PS1="\[\033[01;37m\]$(date +%H:%M) \[\e[32;1m\]\h:\[\e[0m\]\w> "
+
+# brew action
+export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/mysql/bin
